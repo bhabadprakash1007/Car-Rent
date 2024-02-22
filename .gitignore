@@ -5,6 +5,11 @@ Car_Rental/node_modules
 Car_Rental/.pnp
 Car_Rental/.pnp.js
 
+Backend/node_modules
+Backend/.pnp
+Backend/build
+Backend/.pnp.js
+
 # testing
 Car_Rental/coverage
 
